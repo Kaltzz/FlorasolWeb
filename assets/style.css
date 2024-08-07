@@ -1,0 +1,79 @@
+.menu {
+    background-color:#93e7ed ; padding: 30px;
+}
+
+.footer {
+    margin-top:30px; border-top:1px solid rgb(126, 196, 243);
+
+}
+.konten {
+    margin-top:30; overflow:auto;
+}
+.body {
+    width: 982px;margin: 0 auto;
+}
+.konten img {
+    float:left; margin-right:10px; margin-top:30px;
+}
+
+.backgroundss{
+    background-color: rgb(140, 7, 7);
+  }
+
+  .warnap{
+    background-color: rgba(255, 179, 179, 0.948);
+  }
+
+.warnatext{
+    color:rgb(7, 5, 5)
+}
+
+.borderss{
+    outline: 2px solid rgb(0, 0, 0);
+    outline-offset: 3px;
+}
+.gambars{
+	width: 300px;
+	float: left;
+    ml
+}
+
+.backgroundss3{
+    background-color: #d7dee2;
+}
+
+.backgroundss4{
+    background-color: rgb(255, 255, 255);
+}
+
+.smb{
+    text-align: justify;
+    text-justify: inter-word;
+  }
+
+.h2 {
+    position: overflow;
+    right: 200px;
+    top:  700px;
+  }
+
+.divider:after,
+.divider:before {
+content: "";
+flex: 1;
+height: 1px;
+background: #eee;
+}
+.h-custom {
+height: calc(100% - 73px);
+}
+@media (max-width: 450px) {
+.h-custom {
+height: 100%;
+}
+}
+
+  .borderss2{
+    outline: 2px solid rgb(119, 3, 3);
+    outline-offset: 5px;
+}
